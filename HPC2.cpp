@@ -81,3 +81,6 @@ int main() {
 
     return 0;
 }
+
+//!g++ -fopenmp BubbleMerge.cpp -o run
+//!./run
